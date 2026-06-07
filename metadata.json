@@ -1,0 +1,9 @@
+{
+  "name": "Snave",
+  "description": "Premium Gym Client Progress Tracking Dashboard and AI-Powered Coaching Platform with biometric stats, nutrition logs, and automated insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

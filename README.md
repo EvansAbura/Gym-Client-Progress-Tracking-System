@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="" src="https://github.com/EvansAbura" />
-</div>
+A modern, advanced, and highly user-friendly Gym Client Progress Tracking System designed for personal trainers, online coaches, fitness influencers, and gym owners.
 
-# Run and deploy 
+The system should have a clean, professional, mobile-responsive dashboard with excellent UX/UI and be capable of managing unlimited clients.
 
-This contains everything you need to run your app locally.
-
-View EVANS ABURA APPS: https://github.com/EvansAbura
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Core Features
+1. Client Management
+Add, edit, and delete clients
+Client profile photo
+Full name
+Age
+Gender
+Height
+Weight
+Body fat percentage
+Fitness goals
+Contact information
+Emergency contacts
+Medical conditions and injuries
+Membership status
+Join date
+Trainer assigned

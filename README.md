@@ -1,12 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://www.linkedin.com/in/evans-abura-a1b69a206/" />
+<img width="1200" height="475" alt="" src="https://github.com/EvansAbura" />
 </div>
 
 # Run and deploy 
 
 This contains everything you need to run your app locally.
 
-View EVANS ABURA APPS: https://ai.studio/apps/3cdcd9f7-e68c-4f56-ad21-9c20f77953b5
+View EVANS ABURA APPS: https://github.com/EvansAbura
 
 ## Run Locally
 
